@@ -1,0 +1,11 @@
+C:\Users\edgar\source\repos\Activity1\bin\Debug\Activity1.exe.config
+C:\Users\edgar\source\repos\Activity1\bin\Debug\Activity1.exe
+C:\Users\edgar\source\repos\Activity1\bin\Debug\Activity1.pdb
+C:\Users\edgar\source\repos\Activity1\obj\Debug\Activity1.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Activity1\obj\Debug\Activity1.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\source\repos\Activity1\obj\Debug\Activity1.Form1.resources
+C:\Users\edgar\source\repos\Activity1\obj\Debug\Activity1.Properties.Resources.resources
+C:\Users\edgar\source\repos\Activity1\obj\Debug\Activity1.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\Activity1\obj\Debug\Activity1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Activity1\obj\Debug\Activity1.exe
+C:\Users\edgar\source\repos\Activity1\obj\Debug\Activity1.pdb
